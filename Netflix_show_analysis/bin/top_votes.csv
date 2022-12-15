@@ -1,0 +1,101 @@
+index,title,type,release_year,genres,production_countries,imdb_score,imdb_votes
+702,"Crazy, Stupid, Love.",MOVIE,2011,"['romance', 'comedy', 'drama']",['US'],7.4,507878
+703,New Girl,SHOW,2011,"['comedy', 'romance']",['US'],7.7,216209
+704,Black Mirror,SHOW,2011,"['scifi', 'thriller', 'drama', 'european']",['GB'],8.8,515577
+709,Shameless,SHOW,2011,"['drama', 'comedy']",['US'],8.6,230243
+713,Midnight in Paris,MOVIE,2011,"['fantasy', 'romance', 'comedy']","['US', 'ES']",7.7,413541
+716,Warrior,MOVIE,2011,"['drama', 'action', 'sport']",['US'],8.2,463276
+720,The Girl with the Dragon Tattoo,MOVIE,2011,"['crime', 'thriller', 'drama']","['NO', 'SE', 'US']",7.8,454917
+721,Contagion,MOVIE,2011,"['thriller', 'scifi', 'action', 'drama']","['US', 'AE']",6.8,300074
+724,Just Go with It,MOVIE,2011,"['romance', 'comedy']",['US'],6.4,239367
+726,Sherlock Holmes: A Game of Shadows,MOVIE,2011,"['crime', 'thriller', 'action']","['US', 'GB']",7.4,446531
+730,Sucker Punch,MOVIE,2011,"['fantasy', 'thriller', 'action']","['US', 'CA']",6,241111
+741,Puss in Boots,MOVIE,2011,"['comedy', 'animation', 'family', 'fantasy', 'action']",['US'],6.6,156144
+748,Unknown,MOVIE,2011,"['action', 'thriller', 'european']","['GB', 'FR', 'DE']",6.8,259696
+706,Django Unchained,MOVIE,2012,"['western', 'drama']",['US'],8.4,1472668
+708,Looper,MOVIE,2012,"['thriller', 'scifi', 'drama', 'crime', 'action']",['US'],7.4,566791
+711,Argo,MOVIE,2012,"['drama', 'thriller']","['US', 'GB']",7.7,600392
+718,Les Misérables,MOVIE,2012,"['drama', 'romance', 'history', 'war']","['GB', 'US']",7.5,325132
+719,Arrow,SHOW,2012,"['action', 'crime', 'drama', 'scifi']",['US'],7.5,425716
+722,Battleship,MOVIE,2012,"['scifi', 'thriller', 'action', 'documentation']",['US'],5.8,246008
+725,Dark Shadows,MOVIE,2012,"['comedy', 'fantasy', 'horror']",['US'],6.2,262998
+727,Silver Linings Playbook,MOVIE,2012,"['drama', 'romance', 'comedy']",['US'],7.7,697481
+734,Total Recall,MOVIE,2012,"['thriller', 'scifi', 'crime', 'action']","['CA', 'US']",6.2,252051
+736,Project X,MOVIE,2012,['comedy'],['US'],6.6,204959
+916,Peaky Blinders,SHOW,2013,"['drama', 'crime', 'european']",['GB'],8.8,485506
+917,Attack on Titan,SHOW,2013,"['scifi', 'action', 'drama', 'fantasy', 'horror', 'animation']",['JP'],9,325381
+918,The Blacklist,SHOW,2013,"['drama', 'crime', 'thriller']",['US'],8,238138
+925,Her,MOVIE,2013,"['drama', 'romance', 'scifi']",['US'],8,586679
+933,Rush,MOVIE,2013,"['drama', 'action', 'sport', 'european']","['US', 'DE', 'GB']",8.1,465254
+936,Begin Again,MOVIE,2013,"['comedy', 'music', 'romance', 'drama']",['US'],7.4,154049
+937,The Conjuring,MOVIE,2013,"['thriller', 'horror']",['US'],7.5,491048
+938,Insidious: Chapter 2,MOVIE,2013,"['thriller', 'horror']",['US'],6.5,167549
+940,House of Cards,SHOW,2013,['drama'],['US'],8.7,494092
+943,Olympus Has Fallen,MOVIE,2013,"['thriller', 'action', 'drama']",['US'],6.5,272334
+945,Orange Is the New Black,SHOW,2013,"['drama', 'comedy', 'crime']",['US'],8.1,295591
+921,The Flash,SHOW,2014,"['scifi', 'drama', 'action']",['US'],7.6,336888
+922,Nightcrawler,MOVIE,2014,"['crime', 'thriller', 'drama']",['US'],7.8,523686
+923,Gotham,SHOW,2014,"['scifi', 'action', 'crime', 'drama', 'thriller']",['US'],7.8,226081
+927,The Imitation Game,MOVIE,2014,"['thriller', 'drama', 'war']","['US', 'GB']",8,748654
+929,The 100,SHOW,2014,"['drama', 'action', 'scifi']",['US'],7.6,242221
+935,How to Train Your Dragon 2,MOVIE,2014,"['fantasy', 'comedy', 'family', 'animation', 'action']",['US'],7.8,327565
+1033,PK,MOVIE,2014,"['comedy', 'drama', 'romance', 'fantasy', 'scifi']",['IN'],8.2,178012
+1217,Better Call Saul,SHOW,2015,"['comedy', 'drama', 'crime']",['US'],8.8,404920
+1234,It Follows,MOVIE,2015,"['horror', 'thriller']",['US'],6.8,233165
+1253,The Hateful Eight,MOVIE,2015,"['western', 'crime', 'drama', 'thriller']",['US'],7.8,570138
+1259,Legend,MOVIE,2015,"['thriller', 'crime', 'drama', 'european']","['US', 'FR', 'GB']",6.9,175273
+1260,Narcos,SHOW,2015,"['drama', 'thriller', 'crime']",['US'],8.8,404486
+1273,Steve Jobs,MOVIE,2015,['drama'],"['GB', 'US']",7.2,166288
+1284,Chappie,MOVIE,2015,"['scifi', 'drama', 'thriller', 'action', 'crime']","['MX', 'ZA', 'US']",6.8,247192
+1317,The Danish Girl,MOVIE,2015,"['drama', 'romance', 'european']","['DE', 'GB', 'US', 'BE', 'DK']",7.1,180805
+1219,Stranger Things,SHOW,2016,"['scifi', 'drama', 'fantasy', 'horror', 'thriller']",['US'],8.7,989090
+1228,The Crown,SHOW,2016,"['drama', 'history', 'european']","['US', 'GB']",8.7,190878
+1231,Hell or High Water,MOVIE,2016,"['western', 'thriller', 'action', 'crime', 'drama']",['US'],7.6,224900
+1238,Lucifer,SHOW,2016,"['scifi', 'crime', 'drama', 'fantasy']",['US'],8.1,308291
+1244,Nocturnal Animals,MOVIE,2016,"['drama', 'thriller']",['US'],7.5,264884
+1249,War Dogs,MOVIE,2016,"['crime', 'drama', 'comedy', 'war']",['US'],7.1,208185
+1280,London Has Fallen,MOVIE,2016,"['thriller', 'crime', 'drama', 'action']","['BG', 'GB', 'US']",5.9,155997
+1293,The Conjuring 2,MOVIE,2016,"['thriller', 'horror', 'drama']",['US'],7.3,260693
+1375,Dangal,MOVIE,2016,"['action', 'drama', 'sport']",['IN'],8.4,180247
+1824,Ozark,SHOW,2017,"['crime', 'thriller', 'drama']",['US'],8.5,278223
+1827,Blade Runner 2049,MOVIE,2017,"['scifi', 'thriller', 'action', 'drama']","['CA', 'HU', 'MX', 'ES', 'GB', 'US']",8,539864
+1828,Dark,SHOW,2017,"['scifi', 'crime', 'drama', 'thriller']",['DE'],8.7,354443
+1830,Dunkirk,MOVIE,2017,"['drama', 'history', 'thriller', 'war', 'action', 'european']","['US', 'FR', 'NL', 'GB']",7.8,619645
+1831,Wind River,MOVIE,2017,"['thriller', 'crime', 'drama', 'western']","['FR', 'GB', 'US']",7.7,240408
+1832,Molly's Game,MOVIE,2017,"['drama', 'crime', 'sport']","['CA', 'US', 'CN']",7.4,165817
+1835,Mindhunter,SHOW,2017,"['crime', 'drama', 'thriller']",['US'],8.6,261429
+1844,Money Heist,SHOW,2017,"['crime', 'drama', 'thriller', 'action', 'european']",['ES'],8.3,450797
+1845,Lady Bird,MOVIE,2017,"['drama', 'comedy']",['US'],7.4,277165
+1853,Darkest Hour,MOVIE,2017,"['drama', 'war', 'history', 'thriller', 'family']",['GB'],7.4,193208
+1877,The End of the F***ing World,SHOW,2017,"['crime', 'comedy', 'drama', 'romance', 'thriller']",['GB'],8.1,177868
+1910,The Invisible Guest,MOVIE,2017,"['thriller', 'crime', 'drama', 'european']",['ES'],8,170351
+1938,13 Reasons Why,SHOW,2017,"['drama', 'thriller']",['US'],7.5,282373
+2051,Bright,MOVIE,2017,"['thriller', 'fantasy', 'action', 'crime', 'scifi']",['US'],6.3,183841
+1841,Cobra Kai,SHOW,2018,"['action', 'comedy', 'drama', 'sport']",['US'],8.6,163858
+1842,You,SHOW,2018,"['thriller', 'crime', 'drama', 'romance']",['US'],7.7,225949
+1850,Altered Carbon,SHOW,2018,"['scifi', 'thriller', 'action', 'drama']",['US'],7.9,162018
+1856,The Haunting of Hill House,SHOW,2018,"['drama', 'scifi', 'horror', 'thriller']",['US'],8.6,226817
+1889,Roma,MOVIE,2018,"['drama', 'european']","['MX', 'US']",7.7,153508
+1926,Bird Box,MOVIE,2018,"['thriller', 'drama', 'horror', 'scifi']",['US'],6.6,325194
+3179,The Gentlemen,MOVIE,2019,"['comedy', 'crime', 'action']","['US', 'GB']",7.8,314049
+3182,Sex Education,SHOW,2019,"['drama', 'comedy']",['GB'],8.3,251168
+3185,The Umbrella Academy,SHOW,2019,"['comedy', 'drama', 'fantasy', 'scifi', 'action']",['US'],8,202522
+3186,The Witcher,SHOW,2019,"['scifi', 'action', 'drama', 'fantasy', 'horror']",['US'],8.2,465949
+3188,Uncut Gems,MOVIE,2019,"['drama', 'thriller', 'comedy', 'crime']",['US'],7.4,261956
+3216,The Irishman,MOVIE,2019,"['drama', 'crime', 'history', 'thriller']",['US'],7.8,371209
+3223,Marriage Story,MOVIE,2019,"['drama', 'romance', 'comedy']",['GB'],7.9,290643
+3229,El Camino: A Breaking Bad Movie,MOVIE,2019,"['thriller', 'drama', 'crime', 'action']",['US'],7.3,216847
+3246,6 Underground,MOVIE,2019,"['action', 'thriller', 'comedy']",['US'],6.1,168919
+3255,The Platform,MOVIE,2019,"['horror', 'scifi', 'thriller', 'european']",['ES'],7,207877
+3192,The Queen's Gambit,SHOW,2020,"['drama', 'sport']",['US'],8.6,406350
+3224,The Trial of the Chicago 7,MOVIE,2020,"['drama', 'history', 'thriller']",['US'],7.7,170728
+3261,Enola Holmes,MOVIE,2020,"['crime', 'drama', 'action']",['US'],6.6,160806
+3274,The Old Guard,MOVIE,2020,"['fantasy', 'action', 'thriller']",['US'],6.6,155135
+3279,Extraction,MOVIE,2020,"['thriller', 'crime', 'drama', 'action']",['US'],6.7,192132
+4838,The Power of the Dog,MOVIE,2021,"['drama', 'romance', 'western']","['CA', 'GR', 'NZ', 'GB', 'AU']",6.9,158487
+4847,Arcane,SHOW,2021,"['action', 'scifi', 'drama', 'fantasy', 'animation']",['US'],9.1,175412
+4853,Don't Look Up,MOVIE,2021,"['scifi', 'drama', 'comedy']",['US'],7.2,498447
+4863,Squid Game,SHOW,2021,"['action', 'drama', 'thriller']",['KR'],8,416738
+4872,Red Notice,MOVIE,2021,"['comedy', 'crime', 'thriller', 'action']",['US'],6.3,255356
+4937,Army of the Dead,MOVIE,2021,"['horror', 'thriller', 'crime', 'scifi', 'action']",['US'],5.7,166882
+4836,The Adam Project,MOVIE,2022,"['drama', 'action', 'comedy', 'scifi']",['US'],6.7,156603

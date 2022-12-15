@@ -1,0 +1,102 @@
+index,title,type,release_year,genres,production_countries,imdb_score,imdb_votes
+704,Black Mirror,SHOW,2011,"['scifi', 'thriller', 'drama', 'european']",['GB'],8.8,515577
+709,Shameless,SHOW,2011,"['drama', 'comedy']",['US'],8.6,230243
+717,Hunter x Hunter,SHOW,2011,"['drama', 'action', 'comedy', 'crime', 'animation', 'documentation', 'family', 'fantasy']",['JP'],9,87857
+876,Chhota Bheem & Krishna in Mayanagari,MOVIE,2011,"['animation', 'action', 'fantasy']",['IN'],9,5
+700,Call the Midwife,SHOW,2012,"['drama', 'history', 'european']",['GB'],8.5,25562
+831,El Reemplazante,SHOW,2012,['drama'],['CL'],8.5,755
+916,Peaky Blinders,SHOW,2013,"['drama', 'crime', 'european']",['GB'],8.8,485506
+917,Attack on Titan,SHOW,2013,"['scifi', 'action', 'drama', 'fantasy', 'horror', 'animation']",['JP'],9,325381
+940,House of Cards,SHOW,2013,['drama'],['US'],8.7,494092
+951,Wentworth,SHOW,2013,"['drama', 'crime', 'thriller']",['AU'],8.6,21747
+971,Shtisel,SHOW,2013,['drama'],['IL'],8.6,6958
+1202,Chhota Bheem & Krishna vs Zimbara,MOVIE,2013,['animation'],[],8.6,13
+1208,Chhota Bheem Neeli Pahaadi,MOVIE,2013,['animation'],[],8.5,9
+1211,Chhota Bheem and the ShiNobi Secret,MOVIE,2013,['animation'],['IN'],8.6,6
+939,BoJack Horseman,SHOW,2014,"['drama', 'comedy', 'animation']",['US'],8.8,143584
+1055,Moving Art,SHOW,2014,"['documentation', 'family']",['US'],8.6,442
+1078,Some Assembly Required,SHOW,2014,"['comedy', 'documentation', 'reality']",['CA'],8.5,22
+1079,Incomplete Life,SHOW,2014,"['drama', 'comedy']",['KR'],8.6,1883
+1099,"Raja, Rasoi Aur Anya Kahaniyaan",SHOW,2014,"['history', 'documentation']",['IN'],9,327
+1217,Better Call Saul,SHOW,2015,"['comedy', 'drama', 'crime']",['US'],8.8,404920
+1218,The Last Kingdom,SHOW,2015,"['action', 'war', 'drama', 'history', 'european']",['GB'],8.5,126473
+1220,Schitt's Creek,SHOW,2015,['comedy'],['CA'],8.5,112537
+1225,One-Punch Man,SHOW,2015,"['action', 'fantasy', 'scifi', 'animation', 'comedy']",['JP'],8.7,148386
+1260,Narcos,SHOW,2015,"['drama', 'thriller', 'crime']",['US'],8.8,404486
+1316,Making a Murderer,SHOW,2015,"['crime', 'documentation']",['US'],8.6,93456
+1350,Chef's Table,SHOW,2015,['documentation'],['US'],8.5,15176
+1422,Reply 1988,SHOW,2015,"['comedy', 'drama', 'family', 'romance']",['KR'],9.2,6557
+1442,Puffin Rock,SHOW,2015,"['animation', 'family', 'comedy', 'european']",['IE'],8.7,891
+1581,Stories by Rabindranath Tagore,SHOW,2015,['drama'],['IN'],8.8,1295
+1731,A Second Chance,MOVIE,2015,"['romance', 'drama', 'family', 'sport', 'documentation']",['PH'],8.6,47
+1219,Stranger Things,SHOW,2016,"['scifi', 'drama', 'fantasy', 'horror', 'thriller']",['US'],8.7,989090
+1228,The Crown,SHOW,2016,"['drama', 'history', 'european']","['US', 'GB']",8.7,190878
+1263,Leah Remini: Scientology and the Aftermath,SHOW,2016,"['documentation', 'history']",['US'],9,5761
+1291,ERASED,SHOW,2016,"['drama', 'animation', 'fantasy', 'scifi', 'thriller']",['JP'],8.5,42699
+1416,Signal,SHOW,2016,"['crime', 'scifi', 'thriller', 'drama', 'fantasy']",['KR'],8.6,6338
+1624,StoryBots Super Songs,SHOW,2016,"['animation', 'family']",['US'],8.8,167
+1824,Ozark,SHOW,2017,"['crime', 'thriller', 'drama']",['US'],8.5,278223
+1828,Dark,SHOW,2017,"['scifi', 'crime', 'drama', 'thriller']",['DE'],8.7,354443
+1835,Mindhunter,SHOW,2017,"['crime', 'drama', 'thriller']",['US'],8.6,261429
+1867,Anne with an E,SHOW,2017,"['drama', 'family']",['CA'],8.7,51001
+1969,Stranger,SHOW,2017,"['drama', 'thriller', 'crime', 'romance', 'scifi', 'comedy']",['KR'],8.5,7645
+2033,Dave Chappelle,SHOW,2017,"['comedy', 'documentation']",['US'],8.7,2753
+2044,Numberblocks,SHOW,2017,['animation'],['GB'],8.6,198
+2432,Prison Playbook,SHOW,2017,"['comedy', 'drama']",['KR'],8.5,3060
+2488,Crazy Delicious,SHOW,2017,['reality'],['GB'],8.9,15
+2564,Time: The Kalief Browder Story,SHOW,2017,['documentation'],['US'],8.5,2641
+2618,Daughters of Destiny,SHOW,2017,['documentation'],['IN'],8.6,900
+1841,Cobra Kai,SHOW,2018,"['action', 'comedy', 'drama', 'sport']",['US'],8.6,163858
+1856,The Haunting of Hill House,SHOW,2018,"['drama', 'scifi', 'horror', 'thriller']",['US'],8.6,226817
+1932,Queer Eye,SHOW,2018,['reality'],['US'],8.5,18147
+1983,Hilda,SHOW,2018,"['scifi', 'family', 'fantasy', 'animation', 'comedy', 'drama']",['GB'],8.5,10162
+2015,Scissor Seven,SHOW,2018,"['action', 'animation', 'comedy', 'drama', 'fantasy', 'romance']",['CN'],8.5,297
+2050,Mr. Sunshine,SHOW,2018,"['drama', 'action', 'history', 'romance', 'war']",['KR'],8.7,6855
+2057,My Mister,SHOW,2018,"['drama', 'family']",['KR'],9.2,5481
+2128,SKY Castle,SHOW,2018,['drama'],['KR'],8.6,2835
+2135,Norm Macdonald Has a Show,SHOW,2018,['comedy'],['US'],8.6,3473
+2216,Sacred Games,SHOW,2018,"['action', 'thriller', 'crime', 'drama']",['IN'],8.6,85088
+2279,Daniel Sloss: Live Shows,SHOW,2018,['comedy'],['US'],8.5,3387
+2298,Springsteen On Broadway,MOVIE,2018,"['documentation', 'music']",['US'],8.5,2178
+2662,Ashes of Love,SHOW,2018,"['drama', 'comedy', 'thriller', 'fantasy', 'romance']",['CN'],8.5,1875
+2814,C/o Kancharapalem,MOVIE,2018,['drama'],['IN'],9,6562
+2849,Age of Rebellion,SHOW,2018,"['drama', 'romance', 'crime']",['TW'],8.6,49
+2927,#ABtalks,SHOW,2018,[],[],9.6,7
+2946,Ani... Dr. Kashinath Ghanekar,MOVIE,2018,['drama'],['IN'],8.5,1071
+2970,Regiment Diaries,SHOW,2018,['documentation'],[],8.6,80
+3062,Merku Thodarchi Malai,MOVIE,2018,['drama'],['IN'],8.6,1810
+3181,Demon Slayer: Kimetsu no Yaiba,SHOW,2019,"['animation', 'scifi', 'action', 'fantasy', 'thriller', 'horror']",['JP'],8.7,88265
+3183,After Life,SHOW,2019,"['comedy', 'drama']",['GB'],8.5,124972
+3190,Formula 1: Drive to Survive,SHOW,2019,"['documentation', 'sport']",['GB'],8.6,36661
+3250,When They See Us,SHOW,2019,"['drama', 'history', 'crime']",['US'],8.9,114127
+3300,Love on the Spectrum,SHOW,2019,"['reality', 'documentation', 'romance']",['AU'],8.6,5210
+3315,The Untamed,SHOW,2019,"['action', 'comedy', 'romance', 'drama', 'fantasy', 'horror']",['CN'],8.8,5963
+3320,Our Planet,SHOW,2019,['documentation'],['GB'],9.3,41386
+3371,Greatest Events of WWII in Colour,SHOW,2019,"['documentation', 'history', 'war']",['GB'],8.7,8508
+3827,Kota Factory,SHOW,2019,"['drama', 'comedy']",['IN'],9.3,66985
+3903,Delhi Crime,SHOW,2019,"['drama', 'crime']",['IN'],8.5,18732
+4252,Rubaru Roshni,MOVIE,2019,['documentation'],['IN'],8.7,584
+4621,K. D.,MOVIE,2019,['drama'],['IN'],8.5,1750
+3192,The Queen's Gambit,SHOW,2020,"['drama', 'sport']",['US'],8.6,406350
+3196,The Last Dance,SHOW,2020,"['documentation', 'history', 'sport']",['US'],9.1,108321
+3352,David Attenborough: A Life on Our Planet,MOVIE,2020,['documentation'],['GB'],9,31180
+3355,It's Okay to Not Be Okay,SHOW,2020,"['drama', 'comedy', 'romance']",['KR'],8.6,21104
+3426,Middleditch & Schwartz,SHOW,2020,['comedy'],['US'],8.6,5147
+3553,Gameboys,SHOW,2020,"['drama', 'comedy', 'romance']",['PH'],8.5,1066
+3647,Lenox Hill,SHOW,2020,['documentation'],['US'],8.7,2276
+3677,Hospital Playlist,SHOW,2020,"['comedy', 'drama']",['KR'],8.8,4836
+3804,"Best Wishes, Warmest Regards: A Schitt's Creek Farewell",MOVIE,2020,['documentation'],['CA'],8.6,1357
+3904,The Surgeon's Cut,SHOW,2020,['documentation'],[],8.5,1010
+4143,Emicida: AmarElo - It's All for Yesterday,MOVIE,2020,"['music', 'documentation']",['BR'],8.5,1472
+4473,Sky Tour: The Movie,MOVIE,2020,"['documentation', 'music']",[],8.8,1036
+4847,Arcane,SHOW,2021,"['action', 'scifi', 'drama', 'fantasy', 'animation']",['US'],9.1,175412
+4944,Bo Burnham: Inside,MOVIE,2021,"['comedy', 'drama', 'music', 'reality']",['US'],8.7,44074
+5042,Hometown Cha-Cha-Cha,SHOW,2021,"['comedy', 'romance', 'drama']",['KR'],8.5,9987
+5215,Tear Along the Dotted Line,SHOW,2021,"['drama', 'comedy', 'animation']",['IT'],8.7,7595
+5242,Move to Heaven,SHOW,2021,['drama'],['KR'],8.6,5307
+5459,Navillera,SHOW,2021,['drama'],['KR'],8.8,2024
+5512,In Our Mothers' Gardens,MOVIE,2021,['documentation'],['US'],8.6,124
+5805,Mighty Little Bheem: Kite Festival,SHOW,2021,"['family', 'comedy', 'animation']",[],8.8,16
+4832,Heartstopper,SHOW,2022,"['drama', 'romance']",['GB'],8.9,28978
+4965,Twenty Five Twenty One,SHOW,2022,"['drama', 'romance']",['KR'],8.7,4081
+5059,Who Rules The World,SHOW,2022,"['drama', 'fantasy', 'romance']",['CN'],9.2,81
